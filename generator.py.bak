@@ -12,4 +12,3 @@ def generate_response(query, retrieved_chunks):
         )
 
     return "⚙️ Response generation not yet implemented. Complete Milestone 3 to activate answers."
-
